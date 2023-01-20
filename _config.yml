@@ -1,6 +1,6 @@
-title: Your awesome title
-description: balabala
-github_username: jekyll
+title: Hound-of-Tindalos
+description: just a personal site
+github_username: Hound-of-Tindalos
 permalink: /:title.html
 theme: minima
 plugins:
